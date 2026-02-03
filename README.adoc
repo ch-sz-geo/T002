@@ -1,10 +1,10 @@
 // Erklärung und Link auf Website
 ifdef::env-github[]
 [discrete]
-= <Hier_Themenname_eingeben> (<Hier_Temennummer_eingeben>)
-Sie befinden sich auf der Startseite des Themas **"<Hier_Themenname_eingeben> (<Hier_Temennummer_eingeben>)"**. Über folgende Links gelangen Sie zu weiteren Informationen:
+= TestRepo2 (T002)
+Sie befinden sich auf der Startseite des Themas **"TestRepo2 (T002)"**. Über folgende Links gelangen Sie zu weiteren Informationen:
 
-* https://ch-sz-geo.github.io/<Hier_Temennummer_eingeben>/[Daten, Datenmodell, Modellbeschreibung, Erfassungsrichtlinie usw.] zu diesem Thema
+* https://ch-sz-geo.github.io/T002/[Daten, Datenmodell, Modellbeschreibung, Erfassungsrichtlinie usw.] zu diesem Thema
 * https://ch-sz-geo.github.io/A000_entrypage/[Einstiegsseite] mit weiteren Themenbeschreibungen
 * https://data.geo.sz.ch/public/Themen/Themenliste.xml[Übersicht der Themen] mit der Zusammenstellung weiterer Beschreibungen
 endif::[]
